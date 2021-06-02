@@ -8,4 +8,5 @@ First function ```adap_hist_matching``` performs histogram matching on the whole
 
 <p align="center"><img src="https://user-images.githubusercontent.com/67442675/120545876-7a37a800-c3ef-11eb-8a50-aaeb7fbcf39e.png">result of histogram matching</p>
 
+[More theoretical info about histogram matching](http://paulbourke.net/miscellaneous/equalisation/)
 
