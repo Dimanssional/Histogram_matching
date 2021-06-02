@@ -4,7 +4,8 @@ This project present implementation of histogram matching algorithm. Histogram m
 
 <p align="center"><img src="http://paulbourke.net/miscellaneous/equalisation/diagram1.jpg"></p><br/>
 
-First function ```adap_hist_matching``` performs histogram matching on the whole image. Second function ```partial_adap_hist_matching``` performs histogram matching on the some part of the image, by means of ```crop_hist_match``` function, which crop image of DxD size.
+First function ```adap_hist_matching``` performs histogram matching on the whole image. Second function ```partial_adap_hist_matching``` performs histogram matching on the some part of the image, by means of ```crop_hist_match``` function, which crop image of DxD size.<br/>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/67442675/120545876-7a37a800-c3ef-11eb-8a50-aaeb7fbcf39e.png">result of histogram matching</p>
 
 
