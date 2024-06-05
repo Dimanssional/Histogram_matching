@@ -1,6 +1,6 @@
 # Histogram matching 
 
-This project present implementation of histogram matching algorithm. Histogram matching is a process where a time series, image, or higher dimension scalar data is modified such that its histogram matches that of another (reference) dataset. A common application of this is to match the images from two sensors with slightly different responses, or from a sensor whose response changes over time. <br/>
+This project presents implementation of histogram matching algorithm. Histogram matching is a process where a time series, image, or higher dimension scalar data is modified such that its histogram matches that of another (reference) dataset. A common application of this is to match the images from two sensors with slightly different responses, or from a sensor whose response changes over time. <br/>
 
 <p align="center"><img src="http://paulbourke.net/miscellaneous/equalisation/diagram1.jpg"></p><br/>
 
